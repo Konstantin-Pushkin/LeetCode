@@ -15,7 +15,6 @@
 // [7,7] --> "7"
 
 // Example 2:
-
 // Input: nums = [0,2,3,4,6,8,9]
 // Output: ["0","2->4","6","8->9"]
 // Explanation: The ranges are:
